@@ -30,6 +30,7 @@ align-items: center;
 justify-content: space-between;
 list-style-type: none;
 align-items: center;
+    background-color: blue;
 }
 
 #logo{
